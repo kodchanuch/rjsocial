@@ -5,7 +5,7 @@ class Login extends Component {
     render() {
         return (
             <div>
-                <h1>เข้าสู่ระบบของkodchanuch</h1>
+                <h1>Edit Login</h1>
             </div>
         );
     }
