@@ -1,0 +1,58 @@
+#login-container{
+    background-color: rgba(190, 220, 228, 0.8);
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: rgb(28, 201, 201) 0px 5px 10px;
+}
+#login-brand{
+    width: 30%;
+    height: 50%;
+    float: left;
+}
+#login-brand div{
+    padding: 50px;
+}
+#login-brand div h1{
+    color: chocolate;
+}
+#login-brand div h3{
+    color: grey;
+}
+#login-form{
+    width: 30%;
+    height: 50%;
+    float: right;
+}
+#login-form > div{
+    padding: 80px;
+    border-left: solid 2px rgba(2, 19, 250, 0.623);
+    height: 100%;
+}
+#login-form > div h2{
+    color: rgb(17, 100, 100);
+}
+#login-form input{
+    width: 90%;
+    font-size: 15px;
+    padding: 8px;
+    border: solid 2px cornflowerblue;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-top: auto;
+}
+#login-form button{
+    width: 75%;
+    font-size: 15px;
+    background-color: lightseagreen;
+    color: black;
+    padding: 10px;
+    border: solid 1px lightseagreen;
+    border-radius: 20px;
+}
+.social-form-div{
+    margin-top: 5px;
+    text-align: center;
+    
+}
